@@ -1,0 +1,30 @@
+<--- TUGAS HTML ---->
+Suatu Hari, ada customer yang ingin membuat sebuah website dengan spesifikasi sebagai berikut :
+
+<--- GENERAL INFORMATION ---->
+* Membuat Website yang ditentukan berdasarkan kemauan dari customernya.
+* Didalam Websitenya terdapat banyak Page menyesuaikan kemauan dari cutomernya.
+* Dibuat Menggunakan Semantic Structure dan ada Class & ID di dalamnya.
+* Page Dibuat manual oleh Kalian! dan diharus sesuai dengan Yang dibutuhkan oleh Customer.
+
+
+<--- PAGE HOME --->
+* Customer Ingin di dalam websitenya terdapat Heading Berjudul "SMK BISA, SMK HEBAT" sebagai Motto websitenya. [Teks Dibuat Ketengah]
+* Customer Juga ingin di dalam websitenya terdapat deskripsi tentang SMK Perguruan Cikini [Dibuat Harus 3 Baris]
+* Customer juga ingin di dalam websitenya terdapat hyperlink yang akan Mengarahkan ke page lain yang ada di website. [Berbentuk List]\
+* Disetiap Page Terdapat Button Kembali untuk menavigasikan ke Home Page Kembali.
+
+<--- PAGE PENDAFTARAN --->
+* Customer ingin di dalam websitenya terdapat Page yang berfungsi sebagai Pendaftaran Bagi Siswa yang ingin mendaftar ke SMK Percik.
+* Customer ingin di dalam Page tersebut dibuatkan seperti Form Value dengan isi [Nama Depan, Nama Belakang, Umur, dan Alamat]
+* Customer juga ingin di dalam form value tersebut terdapat button Submit
+
+<--- PAGE KURIKULUM --->
+* Customer ingin di dalam websitenya terdapat Page yang berfungsi sebagai Penjelasan kurikulum yang ada di SMK Percik
+* Customer ingin di dalam Page tersebut dibuatkan Table yang Berisi [Kelas, Nama Matpel, dan Jumlah Bab]
+* Customer ingin di dalam Page Tersebut terdapat button "Kembali" yang akan  mengarahkan kembali ke HOME PAGE
+
+<--- PAGE GALERY --->
+* Customer ingin di dalam websitenya terdapat Page yang di dalamnya terdapat Gambar Dan Video Seputar SMK Percik
+* Didalam Page Galerynya terdapat 1 Image yang menjadi banner, kemudian ada 4 Image yang menjadi pengenal SMK Percik
+* Didalam page Galery juga terdapat Video yan2g memperkenalkan SMK Cikini dengan Format File MP4 dan memiliki Sistem Pause and Play.
